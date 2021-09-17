@@ -1,0 +1,30 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{sipay}prestashop>sipay_7ec973a716fad72c016c377b52f155fa'] = 'Pago con tarjeta y otros métodos de pago';
+$_MODULE['<{sipay}prestashop>sipay_83bae13b2d3d31f38132d49805262c12'] = 'Fastpay acepta múltiples formas de pago (Tarjetas Visa, MasterCard, AmericanExpress, UnionPayInternational, JCB, Discover y Dinners), Amazon Pay, PayPal, Google Pay, Apple Pay, Bizum, pago por transferencia y pago financiado a través del muro de pagos de Sipay. ¡Todos los métodos de pago con una sola integración que ayudan a los comercios a vender más!';
+$_MODULE['<{sipay}prestashop>sipay_a02758d758e8bec77a33d7f392eb3f8a'] = 'No se ha especificado una moneda para este módulo.';
+$_MODULE['<{sipay}prestashop>sipay_e59458c2ad3850466357a1cd342adc51'] = 'Pendiente de pago';
+$_MODULE['<{sipay}prestashop>sipay_234f1b2f11cd20de7a839c55c9e20332'] = 'Sospechoso de fraude';
+$_MODULE['<{sipay}prestashop>sipay_fe5d926454b6a8144efce13a44d019ba'] = 'Valor de configuración inválido';
+$_MODULE['<{sipay}prestashop>sipay_c888438d14855d7d96a2724ee9c306bd'] = 'Ajustes actualizados';
+$_MODULE['<{sipay}prestashop>sipay_5f3befac9a0348d65724023be9a205fc'] = 'El valor no es válido, ejemplo #F1F1F1';
+$_MODULE['<{sipay}prestashop>sipay_27abe3d273b7ab587c6faab4f639f79c'] = 'Configuración Fastpay';
+$_MODULE['<{sipay}prestashop>sipay_9b64ccb1432937ff15de4ebf2348ea00'] = 'Enviroment';
+$_MODULE['<{sipay}prestashop>sipay_897356954c2cd3d41b221e3f24f99bba'] = 'Key';
+$_MODULE['<{sipay}prestashop>sipay_1e6947ac7fb3a9529a9726eb692c8cc5'] = 'Secret';
+$_MODULE['<{sipay}prestashop>sipay_be8545ae7ab0276e15898aae7acfbd7a'] = 'Resource';
+$_MODULE['<{sipay}prestashop>sipay_ff162fce740b5c9e9c30a5de95022c22'] = 'Nombre mostrado';
+$_MODULE['<{sipay}prestashop>sipay_c6cf3ed4d44a76aa7701c606b910daed'] = 'Título de la página de revisión de pago';
+$_MODULE['<{sipay}prestashop>sipay_defdd0df15e0d0290b3b76e5fbc5897c'] = 'Ruta fichero debug';
+$_MODULE['<{sipay}prestashop>sipay_c9cc8cce247e49bae79f15173ce97354'] = 'Guardar';
+$_MODULE['<{sipay}prestashop>sipay_a716964cd538ca5bb250bc16402fed86'] = 'Configuración Fastpay PSD2';
+$_MODULE['<{sipay}prestashop>sipay_41e5a57e28cd0a092dd2e3d86e057fdc'] = 'Habilitar TRA';
+$_MODULE['<{sipay}prestashop>sipay_b9f5c797ebbf55adccdd8539a65a0241'] = 'Deshabilitado';
+$_MODULE['<{sipay}prestashop>sipay_00d23a76e43b46dae9ec7aa9dcbebb32'] = 'Habilitado';
+$_MODULE['<{sipay}prestashop>sipay_afb1acea221b7ec539f901e0340fd758'] = 'Habilitar LWV';
+$_MODULE['<{sipay}prestashop>sipay_630f6dc397fe74e52d5189e2c80f282b'] = 'Volver al listado';
+$_MODULE['<{sipay}prestashop>sipay_bfb10b1934930a566a97af42e5a7d1f7'] = 'Hubo un error al procesar su pago. Por favor, inténtelo de nuevo.';
+$_MODULE['<{sipay}prestashop>paymentwall_return_e72f5db7df95fb92f69e9b5ac76f05fe'] = 'Tu pedido %s está completado';
+$_MODULE['<{sipay}prestashop>paymentwall_app_5f1ce190f406a148ac4420af8ca753f3'] = 'Por favor, asegúrese de haber aceptado los términos y condiciones.';
